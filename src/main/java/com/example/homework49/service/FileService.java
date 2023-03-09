@@ -1,8 +1,8 @@
-package server;
+package com.example.homework49.service;
+import com.example.homework49.model.Candidate;
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 import com.google.gson.reflect.TypeToken;
-import work.Candidate;
 
 import java.io.IOException;
 import java.nio.file.Files;

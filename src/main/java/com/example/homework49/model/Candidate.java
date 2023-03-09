@@ -1,4 +1,4 @@
-package work;
+package com.example.homework49.model;
 
 public class Candidate {
     private Integer id;

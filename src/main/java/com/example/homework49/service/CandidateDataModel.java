@@ -1,4 +1,6 @@
-package work;
+package com.example.homework49.service;
+
+import com.example.homework49.model.Candidate;
 
 import java.util.List;
 
@@ -33,5 +35,9 @@ public class CandidateDataModel {
     public int getAllVotes() {
         generateAllVotes();
         return allVotes;
+    }
+
+    public void checkCandidate(){
+        
     }
 }
